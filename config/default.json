@@ -1,0 +1,7 @@
+{
+  "mongodbUrl": "mongodb+srv://admin:62682742@cluster0.lioto.mongodb.net/?retryWrites=true&w=majority",
+  "port": 3005,
+  "baseUrl": "http://localhost:3005",
+  "CorsUrl": "http://localhost:3000"
+
+}
